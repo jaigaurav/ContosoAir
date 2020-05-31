@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-[![Build Status](https://dev.azure.com/jaigaurav10619/ContosAir/_apis/build/status/ContosAir.jai.gaurav.jai.gaurav?branchName=master)](https://dev.azure.com/jaigaurav10619/ContosAir/_build/latest?definitionId=9&branchName=master)
-(https://dev.azure.com/jaigaurav10619/ContosAir/_apis/build/status/ContosAir.jai.gaurav.jai.gaurav?branchName=master)
+# Jai
+[![Build Status](https://dev.azure.com/jaigaurav10619/ContosAir1/_apis/build/status/ContosAir1?branchName=master)](https://dev.azure.com/jaigaurav10619/ContosAir1/_build/latest?definitionId=10&branchName=master)
 
 # Microsoft.Github CI Demo
 
